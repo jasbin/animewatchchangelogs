@@ -1,6 +1,5 @@
 ## Anime Watch Change Logs
 
-```
 Latest changes
 
 # v1
