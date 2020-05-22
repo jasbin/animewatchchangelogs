@@ -1,7 +1,7 @@
 ## Anime Watch Change Logs
 
 ```markdown
-Syntax highlighted code block
+Latest changes
 
 # v1
 1. Code Optimization.
